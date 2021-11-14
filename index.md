@@ -23,7 +23,7 @@ Here is my Alipay QRcode
 
 ### ACKNOWLEDGEMENTS
 
-* [Github](www.github.com)
-* [University of Science and Technology of China](www.ustc.edu.cn)
+* [Github](https://www.github.com)
+* [University of Science and Technology of China](https://www.ustc.edu.cn)
 
 ### MORE INFORMATION
