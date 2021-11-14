@@ -22,7 +22,6 @@
 Here is my Alipay QRcode
 
 ### ACKNOWLEDGEMENTS
-感谢以下的项目,排名不分先后
 
 * [Github](www.github.com)
 * [University of Science and Technology of China](www.ustc.edu.cn)
